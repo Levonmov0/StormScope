@@ -1,0 +1,1 @@
+"""ForecastPoint and WeatherForecast models."""
